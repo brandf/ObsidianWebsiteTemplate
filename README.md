@@ -4,16 +4,16 @@ This template allows you to publish your Obsidian vault as a beautiful static we
 
 ## What This Template Provides
 
-✅ **One-command setup** - Interactive configuration script
-✅ **GitHub Actions workflow** - Automatic deployment on push
-✅ **Pre-configured Quartz** - Optimized settings out of the box
-✅ **Build & serve scripts** - Easy local development
-✅ **Example vault structure** - Organized emoji folders (Life, People, Ideas, etc.)
-✅ **Note templates** - Daily notes, person notes, and more
-✅ **Master vault support** - Link multiple repo vaults as projects
-✅ **Sensible defaults** - `.gitignore`, structure, and configs ready to go
-✅ **Free hosting** - Deploy to GitHub Pages at no cost
-✅ **Full Quartz features** - Search, graph view, backlinks, themes, and more
+- ✅ **One-command setup** - Interactive configuration script
+- ✅ **GitHub Actions workflow** - Automatic deployment on push
+- ✅ **Pre-configured Quartz** - Optimized settings out of the box
+- ✅ **Build & serve scripts** - Easy local development
+- ✅ **Example vault structure** - Organized emoji folders (Life, People, Ideas, etc.)
+- ✅ **Note templates** - Daily notes, person notes, and more
+- ✅ **Master vault support** - Link multiple repo vaults as projects
+- ✅ **Sensible defaults** - `.gitignore`, structure, and configs ready to go
+- ✅ **Free hosting** - Deploy to GitHub Pages at no cost
+- ✅ **Full Quartz features** - Search, graph view, backlinks, themes, and more
 
 ## Quick Start
 
