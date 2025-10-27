@@ -32,7 +32,20 @@ node --version  # Should be v20.0.0 or higher
 
 Click "Use this template" button above to create your own repository.
 
-### 3. Clone and Setup
+> **⚠️ Note:** GitHub will automatically run the deployment workflow when you create the repo, but it will fail with "Ensure GitHub Pages has been enabled". This is expected - you need to enable GitHub Pages first (see step 7 below).
+
+### 3. Enable GitHub Pages (Do This First!)
+
+**Before cloning or making any changes**, enable GitHub Pages:
+
+1. Go to your new repository on GitHub
+2. Click **Settings** → **Pages**
+3. Under "Build and deployment", set Source to: **GitHub Actions**
+4. Click **Save**
+
+This prevents the initial workflow failure and ensures subsequent pushes will deploy automatically.
+
+### 4. Clone and Setup
 
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
