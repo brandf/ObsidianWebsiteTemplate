@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     ignorePatterns: [
       "private",
       ".obsidian",
-      "📄 Templates",
+      "**/📄 Templates/**",
     ],
     defaultDateType: "created",
     theme: {
